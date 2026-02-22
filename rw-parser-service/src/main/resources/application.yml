@@ -1,0 +1,6 @@
+server:
+  port: 8081
+
+rw:
+  api:
+    base-url: "https://pass.rw.by/ru/route/"
