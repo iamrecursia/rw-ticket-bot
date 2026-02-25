@@ -1,0 +1,9 @@
+server:
+  port: 8082
+
+bot:
+  name: ${BOT_NAME}
+  token: ${BOT_TOKEN}
+
+services:
+  parser-url: "http://localhost:8081/api/v1/tickets"
